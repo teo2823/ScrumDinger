@@ -40,6 +40,7 @@ struct MeetingView: View {
             }
         }
         .padding()
+        .background(Color(hue: 0.448, saturation: 0.248, brightness: 0.977))
     }
 }
 
